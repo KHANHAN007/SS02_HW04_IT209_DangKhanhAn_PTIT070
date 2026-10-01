@@ -1,9 +1,5 @@
 # Bài 4 - Cấu hình tường lửa UFW và DigitalOcean Cloud Firewall
 
-**Sinh viên:** Đặng Khánh An  
-**Mã sinh viên:** PTIT070  
-**Môn học:** IT209
-
 ## Mô hình bảo vệ hai lớp
 
 1. **DigitalOcean Cloud Firewall:** chặn gói tin không hợp lệ ngay tại biên mạng trước khi chúng đến Droplet.
